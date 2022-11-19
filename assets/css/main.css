@@ -133,10 +133,10 @@ input, select, textarea {
 
 		}
 
-	body {
+	/* body {
 		background-color: #333333;
 		color: #000000;
-	}
+	} */
 
 	body, input, select, textarea {
 		font-family: "IBM Plex Sans", Helvetica, sans-serif;
@@ -2742,7 +2742,7 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		padding: 8rem 0 6rem 0 ;
+		padding: 4rem 0 6rem 0 ;
 		position: relative;
 	}
 
@@ -4301,3 +4301,7 @@ input, select, textarea {
 		box-shadow: 0 0 6rem 0 rgba(0, 0, 0, 0.125);
 		visibility: visible;
 	} */
+
+.school-logo {
+	width: 40px;
+}
